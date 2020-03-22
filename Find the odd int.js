@@ -3,7 +3,6 @@
 // There will always be only one integer that appears an odd number of times.
 
 
-
 function findOdd(A) {
     let count = 0;
     let a = 0;
