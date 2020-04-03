@@ -3,8 +3,7 @@
 
 // For example,
 // for [1, 2, 2] it should
-// return 9 because 1 ^ 2 + 2 ^ 2 + 2 ^ 2 = 9.
-
+// return 9 because 1 ^ 2 + 2 ^ 2 + 2 ^ 2 = 9
 
 function squareSum(numbers) {
     let sum = 0;
